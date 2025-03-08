@@ -1,0 +1,3 @@
+saying hi from Git hub , file is created in local pc and pushed from a diff branch 
+after merging with main,
+now going to pull again to verify it
